@@ -32,7 +32,7 @@ Turtle-River-Crossing-Adventure
 
 ---
 
-##Acknowledgments:
+## Acknowledgments:
 -Adapted from “100 Days of Code: The Complete Python Pro Bootcamp” by Dr. Angela Yu on Udemy 
 -Source: https://www.udemy.com/course/100-days-of-code/?couponCode=CP130525#instructor-1
 -Modifications © 2025 tabassum_an, licensed under MIT
